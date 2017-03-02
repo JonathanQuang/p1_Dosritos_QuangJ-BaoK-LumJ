@@ -108,7 +108,7 @@ class MazeSolver
      *********************************************/
     public void solve( int x, int y ) {
 
-	delay(50); //slow it down enough to be followable
+	//delay(50); //slow it down enough to be followable
 
 	// - a -
 	// d @ b
